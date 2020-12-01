@@ -1,0 +1,7 @@
+name: nixtamal
+channels:
+  - conda-forge
+  - fastai
+  - defaults
+dependencies:
+  - nbdev
